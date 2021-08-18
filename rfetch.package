@@ -1,0 +1,6 @@
+---
+name: rfetch
+version_id: "1.0"
+command: ln rfetch /usr/bin/rfetch
+path: rfetch.package
+print_command_output: false
